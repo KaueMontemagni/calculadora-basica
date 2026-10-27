@@ -1,3 +1,4 @@
+
 # 🧮 Calculadora Básica em Python
 
 Uma aplicação simples e didática de calculadora desenvolvida em Python, com foco no aprendizado dos conceitos fundamentais de lógica de programação. O projeto realiza as quatro operações matemáticas básicas com código limpo, modular e comentado.
